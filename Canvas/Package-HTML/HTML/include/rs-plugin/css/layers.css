@@ -3088,20 +3088,18 @@ website:   	http://www.themepunch.com
 }
 
 .revtp-searchform input[type="submit"],
-.revtp-form input[type="submit"] {	
+.revtp-form input[type="submit"] {
 	font-family: "Arial", sans-serif;
-    line-height: 46px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    font-size: 15px;
-    font-weight: 700;
-    padding: 0 20px;
-    border: 0;
-    background: #006089;
-    color: #fff;
-    
-    
-    border-radius: 0px;
+	line-height: 46px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	font-size: 15px;
+	font-weight: 700;
+	padding: 0 20px;
+	border: 0;
+	background-color: #FFFFFF;
+	color: #fff;
+	border-radius: 0px;
 }
 
 .tp-caption.Twitter-Content a,
