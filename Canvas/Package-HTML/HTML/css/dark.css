@@ -264,9 +264,9 @@ body #side-panel.dark {
 
 	.dark .primary-menu:not(.not-dark) .sub-menu-container,
 	.dark .primary-menu:not(.not-dark) .mega-menu-content {
-		background-color: #333;
-		border-color: rgba(255,255,255,0.05);
-		border-top-color: #1ABC9C;
+	background-color: #FFFFFF;
+	border-color: rgba(255,255,255,0.05);
+	border-top-color: #1ABC9C;
 	}
 
 	.dark .primary-menu:not(.not-dark) .sub-menu-container .menu-item > .menu-link {
