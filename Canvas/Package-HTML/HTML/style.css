@@ -729,7 +729,7 @@ a.h-text-dark:hover {
 }
 
 .h-bg-dark:hover {
-	background-color: #343a40 !important;
+	background-color: #FFFFFF !important;
 }
 
 
@@ -6407,7 +6407,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 -----------------------------------------------------------------*/
 
 #page-title.page-title-dark {
-	background-color: #333;
+	background-color: #FFFFFF;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.1) !important;
 	border-bottom: none;
 }
@@ -10529,7 +10529,7 @@ body:not(.device-touch) .social-icon {
 -----------------------------------------------------------------*/
 
 .si-dark {
-	background-color: #444;
+	background-color: #FFFFFF;
 	color: #FFF !important;
 	border-color: transparent;
 }
@@ -13821,7 +13821,9 @@ body:not(.device-touch) #gotoTop {
 	display: block;
 	width: 100%;
 	height: 100%;
-	background: center center no-repeat #FFF;
+	background-repeat: no-repeat;
+	background-position: center center no-repeat #FFF;
+	background-color: #FFFFFF;
 }
 
 .preloader2 { background-color: transparent; }

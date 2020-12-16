@@ -27,7 +27,7 @@ body.dark,
 .dark .page-transition-wrap,
 body.dark #side-panel,
 body #side-panel.dark {
-	background-color: #383838;
+	background-color: #FFFFFF;
 }
 
 .dark .css3-spinner > div {
@@ -53,7 +53,7 @@ body #side-panel.dark {
 .dark #top-bar,
 #top-bar.dark {
 	border-bottom-color: rgba(255,255,255,0.1);
-	background-color: #282828;
+	background-color: #FFFFFF;
 }
 
 .dark .top-links {
@@ -69,12 +69,12 @@ body #side-panel.dark {
 }
 
 .dark .top-links-item:hover {
-	background-color: #333;
+	background-color: #FFFFFF;
 }
 
 .dark .top-links-sub-menu,
 .dark .top-links-section {
-	background: #333;
+	background-color: #FFFFFF;
 	border-color: #444;
 	border-top-color: #1ABC9C;
 }
@@ -84,7 +84,7 @@ body #side-panel.dark {
 }
 
 .dark .top-links-sub-menu .top-links-item:hover {
-	background-color: #383838;
+	background-color: #9BCFFF;
 }
 
 .dark #top-social li {
@@ -97,12 +97,12 @@ body #side-panel.dark {
 
 .dark #header,
 #header.dark {
-	background-color: #333;
+	background-color: #9BCFFF;
 	border-bottom-color: rgba(255,255,255,0.05);
 }
 
 .dark #header-wrap {
-	background-color: #333;
+	background-color: #9BC5FF;
 }
 
 @media (min-width: 992px) {
@@ -122,7 +122,7 @@ body #side-panel.dark {
 
 	.dark .transparent-header.floating-header .container,
 	.transparent-header.floating-header.dark .container {
-		background-color: #333;
+	background-color: #FFFFFF;
 	}
 
 	.dark #header.full-header,
@@ -239,8 +239,8 @@ body #side-panel.dark {
 
 	.dark #header:not(.sticky-header) .mobile-menu-off-canvas .menu-container,
 	#header.dark:not(.sticky-header) .mobile-menu-off-canvas .menu-container {
-		background-color: #333;
-		border-right-color: rgba(255,255,255,0.2) !important;
+	background-color: #FFFFFF;
+	border-right-color: rgba(255,255,255,0.2) !important;
 	}
 
 	.dark #header:not(.sticky-header) .mobile-menu-off-canvas.from-right .menu-container,
@@ -494,7 +494,7 @@ body #side-panel.dark {
 
 .dark #page-title,
 #page-title.dark {
-	background-color: #282828;
+	background-color: #FFFFFF;
 	border-bottom-color: rgba(255,255,255,0.15);
 }
 
