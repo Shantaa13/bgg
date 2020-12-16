@@ -3097,7 +3097,7 @@ website:   	http://www.themepunch.com
 	font-weight: 700;
 	padding: 0 20px;
 	border: 0;
-	background-color: #FFFFFF;
+	/* [disabled]background-color: #FFFFFF; */
 	color: #fff;
 	border-radius: 0px;
 }
